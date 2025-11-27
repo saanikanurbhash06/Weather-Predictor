@@ -147,29 +147,6 @@ Log file creates automatically
 
 ---
 
-## 📗 License
 
-MIT License © [Your Name]  
-Use freely for educational or personal purposes
-
----
-
-## 🙌 Acknowledgments
-
-- OpenWeatherMap API
-- CSS Gradient Inspiration: CSS-Tricks
-- JSON Parsing: `org.json` library
-
----
-
-**Built with ❤️ using Java Full Stack**
-✅ How to Use:
-Copy this Markdown into a file named README.md
-
-Replace:
-
-yourusername with your GitHub username
-
-Customize the screenshots or license if needed
-
-Push to your GitHub repository
+Project Done By
+Saanika Nurbhash
