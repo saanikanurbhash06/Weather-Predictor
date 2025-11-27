@@ -149,9 +149,7 @@ Log file creates automatically
 
 ## 📗 License
 
-MIT License © [Your Name]  
-Use freely for educational or personal purposes
-
+MIT License © [Saanika Nurbhash]  
 ---
 
 ## 🙌 Acknowledgments
@@ -163,13 +161,3 @@ Use freely for educational or personal purposes
 ---
 
 **Built with ❤️ using Java Full Stack**
-✅ How to Use:
-Copy this Markdown into a file named README.md
-
-Replace:
-
-yourusername with your GitHub username
-
-Customize the screenshots or license if needed
-
-Push to your GitHub repository
